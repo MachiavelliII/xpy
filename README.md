@@ -1,2 +1,2 @@
 # xpy
-A simple XMPP client.
+A simple XMPP client written in go.
